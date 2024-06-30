@@ -1,0 +1,49 @@
+/*for homepage*/
+
+body {background-color: #F8FAE5;
+      color: #43766C;
+       }
+#mp {
+    text-align: center;
+}
+
+table {
+    border: 2px solid #43766C ;
+    text-align: center;
+    margin: auto;
+    width: 20%;
+
+}
+
+th {
+    border: 2px solid #43766C ;
+}
+
+/*for all other pages*/
+
+.subpgs {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.tn {
+    text-decoration: underline #43766C ;
+}
+
+.egcode {
+    border: 2px solid #43766C ;
+    margin-right: 80%;
+    padding: 1%;
+}
+
+.but {
+    background-color: #43766C;
+    color: #F8FAE5;
+    padding: 4px;
+    text-decoration: none;
+}
+.lml {
+    border: 2px dashed #43766C;
+    padding: 2px;
+    text-decoration: none;
+}
